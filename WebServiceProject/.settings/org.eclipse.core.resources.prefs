@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/sample/SayHelloService.java=UTF-8
+encoding//src/sample/SayHelloServiceService.java=UTF-8
+encoding//src/sample/SayHelloServiceServiceLocator.java=UTF-8
+encoding//src/sample/SayHelloServiceSoapBindingImpl.java=UTF-8
+encoding//src/sample/SayHelloServiceSoapBindingSkeleton.java=UTF-8
+encoding//src/sample/SayHelloServiceSoapBindingStub.java=UTF-8
